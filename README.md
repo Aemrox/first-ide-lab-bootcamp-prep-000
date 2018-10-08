@@ -4,7 +4,7 @@
 fdfd
   <br>
   ocelot ocelot where have you 
-  Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.rgwrgw
+  Now that you've downloaded and installed the Learn IDE, it's time to solve your first labgwrgrwgrw.rgwrgw
 
   Watch the video below to see how to solve this labrgwrgw.
 
