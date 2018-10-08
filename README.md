@@ -3,6 +3,7 @@
 <div class="readme-content-test--hide-when-active">
 fdfd
   <br>
+  ocelot ocelot where have you gone
 
   Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
